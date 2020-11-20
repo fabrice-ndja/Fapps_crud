@@ -27,6 +27,9 @@ dependencies:
   adaptive_theme: ^1.1.0
   # Modifier la police du projet avec Google fonts
   google_fonts: ^1.1.1
+  firebase_auth: "^0.18.3"
+  firebase_core: "0.5.2"
+  cloud_firestore: ^0.14.3
 
 
   # The following adds the Cupertino Icons font to your application.
